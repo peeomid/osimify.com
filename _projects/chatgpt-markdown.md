@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Deep Research to Markdown"
+title: "ChatGPT Deep Research to Markdown"
 excerpt: "Chrome extension to export ChatGPT Deep Research reports to clean Markdown with full references."
 ---
 
@@ -23,7 +23,7 @@ ChatGPT Deep Research produces long, well-sourced reports — but copying them o
 - All processing happens locally — no data sent anywhere
 
 ## Install
-1. Go to the [Chrome Web Store listing](#) (pending review)
+1. Go to the [Chrome Web Store listing](https://chromewebstore.google.com/detail/mpfgiidgdpflbnffmgeldeaefhhmbddg)
 2. Click "Add to Chrome"
 3. Navigate to any ChatGPT Deep Research conversation
 4. Click the extension icon and export

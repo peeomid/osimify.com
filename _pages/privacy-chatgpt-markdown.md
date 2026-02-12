@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /privacy/chatgpt-markdown/
-title: "Privacy Policy — Deep Research to Markdown"
+title: "Privacy Policy — ChatGPT Deep Research to Markdown"
 author_profile: false
 ---
 
