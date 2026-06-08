@@ -5,7 +5,9 @@ excerpt: "Native macOS Markdown reader for local files, folders, tabs, workspace
 ---
 
 ## What it is
-CalmPage is a native macOS app for reading local Markdown files. It gives you a clean reading view, folder browsing, tabs, workspaces, focus mode, and a table of contents for long documents.
+CalmPage is a free native macOS app for reading local Markdown files. It gives you a clean reading view, folder browsing, tabs, workspaces, focus mode, and a table of contents for long documents.
+
+![CalmPage Markdown reader screenshot](/assets/images/projects/calmpage-screenshot.png)
 
 ## Why it exists
 I use AI more and more, and AI creates a lot of Markdown: plans, specs, notes, reports, and long docs. Most IDEs are great for coding, but Markdown often feels ugly or noisy to read there. When long docs are hard to read, I skip them.
@@ -30,6 +32,9 @@ I built CalmPage for myself to fix that problem: make Markdown feel calm, readab
 - Tauri v2
 - Svelte 5
 - TypeScript
+
+## Availability
+- Free app
 
 ## Links
 - [GitHub](https://github.com/peeomid/CalmPage)
