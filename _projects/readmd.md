@@ -7,6 +7,8 @@ excerpt: "CLI that turns Markdown files into beautiful, portable HTML reading pa
 ## What it is
 `readmd` is a CLI for turning Markdown files into polished HTML pages that feel good to read. It focuses on typography, spacing, colors, code blocks, tables, quotes, and portable output.
 
+![readmd theme and style demo grid](/assets/images/projects/readmd-theme-style-demo.png)
+
 ## Why it exists
 AI tools create a lot of Markdown: plans, specs, notes, and long reports. Reading those files in a code editor can feel noisy. `readmd` makes a Markdown file easy to turn into a clean reading page with one command.
 
@@ -42,3 +44,4 @@ readmd note.md --theme paper --style notebook
 
 ## Links
 - [GitHub](https://github.com/peeomid/readmd)
+- [Theme and style demos](https://peeomid.github.io/readmd/demos/theme-style/)
